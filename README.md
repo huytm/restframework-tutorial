@@ -9,11 +9,17 @@ django và djangorestframework
 https://python.org
 
 Để cài đặt django các bạn gõ lệnh sau:
+```console
 pip install django
+```
 dể cài đặt django restframework các bạn gõ lệnh sau:
+```console
 pip install djangorestframework
+```
 Để run project các bạn nhớ cd cùng thư mục với file manage.py và dùng lệnh
+```console
 python manage.py runserver
+```
 
 và mở trình duyệt ở địa chỉ : http://127.0.0.1:8000/  nhé. 
 Các bạn có thể liên hệ mình nếu không làm được
